@@ -3,7 +3,7 @@
 //  SyncTime
 //
 //  Created by Tim Schmitz on 2/2/15.
-//  Copyright (c) 2Int(NSUndefinedDateComponent)15 Tap and Tonic. All rights reserved.
+//  Copyright (c) 2015 Tap and Tonic. All rights reserved.
 //
 
 import Foundation
