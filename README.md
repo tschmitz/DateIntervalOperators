@@ -62,8 +62,8 @@ If you have comments, complaints or ideas for improvements, feel free to open an
 
 Tim Schmitz
 
-- [github.com/timschmitz](github.com/timschmitz)
-- [twitter.com/timschmitz](twitter.com/timschmitz)
+- [Github](http://github.com/timschmitz)
+- [Twitter](http://twitter.com/timschmitz)
 - [minutestomidnight.net](http://minutestomidnight.net)
 
 DateIntervalOperators is available under the MIT license. See the LICENSE file for more info.
