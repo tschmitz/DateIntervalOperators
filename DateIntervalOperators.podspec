@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary = 'A set of extensions and operators for manipulating dates in Swift'
   s.homepage = 'https://github.com/tschmitz/DateIntervalOperators'
   s.authors = { 'Tim Schmitz' => 'tim@tapandtonic.net' }
-  s.source = { :git => 'https://github.com/tschmitz/DateIntervalOperators.git', :commit => "7fbba6397edafaf2c649e50e5e99f158ea3f09ad" }
+  s.source = { :git => 'https://github.com/tschmitz/DateIntervalOperators.git', :tag => "1.0.0" }
   
   s.requires_arc = true
   s.ios.deployment_target = '8.0'
